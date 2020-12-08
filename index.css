@@ -1,0 +1,35 @@
+ol{
+    width: 320px;
+    padding: left 50px;
+    border-top: 20px;
+    margin:0;
+    padding-top: 20px;
+}
+a{
+  font-weight: bold;
+  color: teal;
+}
+h1{
+    margin-bottom: 0;
+    color: teal;
+
+}
+body{
+    margin-left: 0;
+}
+#h1{
+    font-size: 35px;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    display:block;
+    padding:20px;
+    margin-bottom:0;
+}
+#grid{
+    display: grid;
+    grid-template-columns: 400px 2fr;
+}
+#article{
+      border-left: 1px solid gray;
+      padding-left: 30px;
+}
